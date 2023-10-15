@@ -1,0 +1,44 @@
+[15-Oct-2023 21:37:28 UTC] PHP Warning:  Undefined array key "img" in C:\Users\StarLord\Local Sites\gamervox\app\public\wp-content\themes\api\endpoints\photo_get.php on line 5
+[15-Oct-2023 21:37:28 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\StarLord\Local Sites\gamervox\app\public\wp-content\themes\api\endpoints\photo_get.php on line 5
+[15-Oct-2023 21:37:28 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\StarLord\Local Sites\gamervox\app\public\wp-content\themes\api\endpoints\photo_get.php on line 5
+[15-Oct-2023 21:37:28 UTC] PHP Warning:  Undefined array key "peso" in C:\Users\StarLord\Local Sites\gamervox\app\public\wp-content\themes\api\endpoints\photo_get.php on line 15
+[15-Oct-2023 21:37:28 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\StarLord\Local Sites\gamervox\app\public\wp-content\themes\api\endpoints\photo_get.php on line 15
+[15-Oct-2023 21:37:28 UTC] PHP Warning:  Undefined array key "idade" in C:\Users\StarLord\Local Sites\gamervox\app\public\wp-content\themes\api\endpoints\photo_get.php on line 16
+[15-Oct-2023 21:37:28 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\StarLord\Local Sites\gamervox\app\public\wp-content\themes\api\endpoints\photo_get.php on line 16
+[15-Oct-2023 21:37:28 UTC] PHP Warning:  Undefined array key "acessos" in C:\Users\StarLord\Local Sites\gamervox\app\public\wp-content\themes\api\endpoints\photo_get.php on line 17
+[15-Oct-2023 21:37:29 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\StarLord\Local Sites\gamervox\app\public\wp-content\themes\api\endpoints\photo_get.php on line 17
+[15-Oct-2023 21:37:32 UTC] PHP Warning:  Undefined array key "img" in C:\Users\StarLord\Local Sites\gamervox\app\public\wp-content\themes\api\endpoints\photo_get.php on line 5
+[15-Oct-2023 21:37:32 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\StarLord\Local Sites\gamervox\app\public\wp-content\themes\api\endpoints\photo_get.php on line 5
+[15-Oct-2023 21:37:32 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\StarLord\Local Sites\gamervox\app\public\wp-content\themes\api\endpoints\photo_get.php on line 5
+[15-Oct-2023 21:37:32 UTC] PHP Warning:  Undefined array key "peso" in C:\Users\StarLord\Local Sites\gamervox\app\public\wp-content\themes\api\endpoints\photo_get.php on line 15
+[15-Oct-2023 21:37:32 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\StarLord\Local Sites\gamervox\app\public\wp-content\themes\api\endpoints\photo_get.php on line 15
+[15-Oct-2023 21:37:32 UTC] PHP Warning:  Undefined array key "idade" in C:\Users\StarLord\Local Sites\gamervox\app\public\wp-content\themes\api\endpoints\photo_get.php on line 16
+[15-Oct-2023 21:37:32 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\StarLord\Local Sites\gamervox\app\public\wp-content\themes\api\endpoints\photo_get.php on line 16
+[15-Oct-2023 21:37:32 UTC] PHP Warning:  Undefined array key "acessos" in C:\Users\StarLord\Local Sites\gamervox\app\public\wp-content\themes\api\endpoints\photo_get.php on line 17
+[15-Oct-2023 21:37:32 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\StarLord\Local Sites\gamervox\app\public\wp-content\themes\api\endpoints\photo_get.php on line 17
+[15-Oct-2023 21:38:53 UTC] PHP Warning:  Undefined array key "img" in C:\Users\StarLord\Local Sites\gamervox\app\public\wp-content\themes\api\endpoints\photo_get.php on line 5
+[15-Oct-2023 21:38:53 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\StarLord\Local Sites\gamervox\app\public\wp-content\themes\api\endpoints\photo_get.php on line 5
+[15-Oct-2023 21:38:53 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\StarLord\Local Sites\gamervox\app\public\wp-content\themes\api\endpoints\photo_get.php on line 5
+[15-Oct-2023 21:38:53 UTC] PHP Warning:  Undefined array key "peso" in C:\Users\StarLord\Local Sites\gamervox\app\public\wp-content\themes\api\endpoints\photo_get.php on line 15
+[15-Oct-2023 21:38:53 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\StarLord\Local Sites\gamervox\app\public\wp-content\themes\api\endpoints\photo_get.php on line 15
+[15-Oct-2023 21:38:53 UTC] PHP Warning:  Undefined array key "idade" in C:\Users\StarLord\Local Sites\gamervox\app\public\wp-content\themes\api\endpoints\photo_get.php on line 16
+[15-Oct-2023 21:38:53 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\StarLord\Local Sites\gamervox\app\public\wp-content\themes\api\endpoints\photo_get.php on line 16
+[15-Oct-2023 21:38:53 UTC] PHP Warning:  Undefined array key "acessos" in C:\Users\StarLord\Local Sites\gamervox\app\public\wp-content\themes\api\endpoints\photo_get.php on line 17
+[15-Oct-2023 21:38:53 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\StarLord\Local Sites\gamervox\app\public\wp-content\themes\api\endpoints\photo_get.php on line 17
+[15-Oct-2023 21:39:06 UTC] PHP Warning:  Undefined array key "img" in C:\Users\StarLord\Local Sites\gamervox\app\public\wp-content\themes\api\endpoints\photo_get.php on line 5
+[15-Oct-2023 21:39:06 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\StarLord\Local Sites\gamervox\app\public\wp-content\themes\api\endpoints\photo_get.php on line 5
+[15-Oct-2023 21:39:06 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\StarLord\Local Sites\gamervox\app\public\wp-content\themes\api\endpoints\photo_get.php on line 5
+[15-Oct-2023 21:39:06 UTC] PHP Warning:  Undefined array key "peso" in C:\Users\StarLord\Local Sites\gamervox\app\public\wp-content\themes\api\endpoints\photo_get.php on line 15
+[15-Oct-2023 21:39:06 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\StarLord\Local Sites\gamervox\app\public\wp-content\themes\api\endpoints\photo_get.php on line 15
+[15-Oct-2023 21:39:06 UTC] PHP Warning:  Undefined array key "idade" in C:\Users\StarLord\Local Sites\gamervox\app\public\wp-content\themes\api\endpoints\photo_get.php on line 16
+[15-Oct-2023 21:39:06 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\StarLord\Local Sites\gamervox\app\public\wp-content\themes\api\endpoints\photo_get.php on line 16
+[15-Oct-2023 21:39:06 UTC] PHP Warning:  Undefined array key "acessos" in C:\Users\StarLord\Local Sites\gamervox\app\public\wp-content\themes\api\endpoints\photo_get.php on line 17
+[15-Oct-2023 21:39:06 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\StarLord\Local Sites\gamervox\app\public\wp-content\themes\api\endpoints\photo_get.php on line 17
+[15-Oct-2023 23:28:15 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\StarLord\Local Sites\gamervox\app\public\wp-content\themes\api\endpoints\photo_get.php on line 5
+[15-Oct-2023 23:28:18 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\StarLord\Local Sites\gamervox\app\public\wp-content\themes\api\endpoints\photo_get.php on line 5
+[15-Oct-2023 23:28:18 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\StarLord\Local Sites\gamervox\app\public\wp-content\themes\api\endpoints\photo_get.php on line 5
+[15-Oct-2023 23:29:39 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\StarLord\Local Sites\gamervox\app\public\wp-content\themes\api\endpoints\photo_get.php on line 5
+[15-Oct-2023 23:29:45 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\StarLord\Local Sites\gamervox\app\public\wp-content\themes\api\endpoints\photo_get.php on line 5
+[15-Oct-2023 23:29:45 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\StarLord\Local Sites\gamervox\app\public\wp-content\themes\api\endpoints\photo_get.php on line 5
+[15-Oct-2023 23:31:15 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\StarLord\Local Sites\gamervox\app\public\wp-content\themes\api\endpoints\photo_get.php on line 5
+[15-Oct-2023 23:31:17 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\StarLord\Local Sites\gamervox\app\public\wp-content\themes\api\endpoints\photo_get.php on line 5
